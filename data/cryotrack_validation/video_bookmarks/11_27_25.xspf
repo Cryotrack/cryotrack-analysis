@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/hjkrumb-local/research/datasets/cryotrack/validation_nov_2023/2023_11_27__11_27_25/22.38.CRYO_2023_11_27_11_27_25_Movie.qt</location>
+			<duration>2359055</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>bookmarks={name=P_t1_HK_ip,time=10,500},{name=S_t1_HK_ip,time=105,289},{name=E_t1_HK_ip,time=206,539},{name=P_t1_HK_oop,time=440,322},{name=S_t1_HK_oop,time=481,322},{name=E_t1_HK_oop,time=538,822},{name=P_t1_JM_ip,time=642,572},{name=S_t1_JM_ip,time=659,822},{name=E_t1_JM_ip,time=733,822},{name=P_t1_JM_oop,time=858,822},{name=S_t1_JM_oop,time=869,822},{name=E_t1_JM_oop,time=919,822},{name=P_t2_HK_ip,time=1070,822},{name=S_t2_HK_ip,time=1170,572},{name=E_t2_HK_ip,time=1226,822},{name=P_t2_HK_oop,time=1349,822},{name=S_t2_HK_oop,time=1414,822},{name=E_t2_HK_oop,time=1489,822},{name=P_t2_JM_ip,time=1590,322},{name=S_t2_JM_ip,time=1616,322},{name=E_t2_JM_ip,time=1702,822},{name=P_t2_JM_oop,time=1844,822},{name=S_t2_JM_oop,time=1874,322},{name=E_t2_JM_oop,time=1909,822}</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/hjkrumb-local/research/datasets/cryotrack/validation_nov_2023/2023_11_27__14_52_33/22.38.CRYO_2023_11_27_14_52_33_CH2_Channel2.qt</location>
+			<duration>5554072</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>bookmarks={name=P_t1_JV_ip,time=7,250},{name=S_t1_JV_ip,time=53,086},{name=E_t1_JV_ip,time=107,389},{name=P_t2_JV_ip,time=174,205},{name=S_t2_JV_ip,time=256,290},{name=E_t2_JV_ip,time=317,040},{name=P_t3_JV_ip,time=358,638},{name=S_t3_JV_ip,time=428,138},{name=E_t3_JV_ip,time=491,388},{name=P_t4_JV_ip,time=529,307},{name=S_t4_JV_ip,time=542,057},{name=E_t4_JV_ip,time=639,077},{name=P_t5_JV_ip_invalid,time=697,221},{name=S_t5_JV_ip_invalid,time=723,471},{name=E_t5_JV_ip_invalid,time=764,471},{name=P_t5_JV_ip_001,time=966,240},{name=S_t5_JV_ip_001,time=971,499},{name=E_t5_JV_ip_001,time=1046,577},{name=P_t1_JV_oop,time=1099,371},{name=S_t1_JV_oop,time=1115,621},{name=E_t1_JV_oop,time=1149,177},{name=P_t2_JV_oop,time=1199,221},{name=S_t2_JV_oop,time=1263,221},{name=E_t2_JV_oop,time=1295,721},{name=P_t3_JV_oop,time=1392,670},{name=S_t3_JV_oop,time=1405,932},{name=E_t3_JV_oop,time=1480,432},{name=P_t4_JV_oop,time=1554,075},{name=S_t4_JV_oop,time=1568,825},{name=E_t4_JV_oop,time=1631,653},{name=P_t5_JV_oop,time=1713,488},{name=S_t5_JV_oop,time=1718,987},{name=E_t5_JV_oop,time=1763,286},{name=P_t1_JV_ip_002,time=1874,887},{name=S_t1_JV_ip_002,time=1898,637},{name=E_t1_JV_ip_002,time=1990,471},{name=P_t2_JV_ip_002,time=2115,639},{name=S_t2_JV_ip_002,time=2146,661},{name=E_t2_JV_ip_002,time=2250,770},{name=P_t3_JV_ip_002,time=2337,860},{name=S_t3_JV_ip_002,time=2343,606},{name=E_t3_JV_ip_002,time=2394,644},{name=P_t4_JV_ip_002,time=2446,457},{name=S_t4_JV_ip_002,time=2466,457},{name=E_t4_JV_ip_002,time=2499,015},{name=P_t5_JV_ip_003,time=2567,839},{name=S_t5_JV_ip_003,time=2592,615},{name=E_t5_JV_ip_003,time=2651,172},{name=P_t1_JV_oop_002,time=2907,844},{name=S_t1_JV_oop_002,time=2919,344},{name=E_t1_JV_oop_002,time=2941,344},{name=P_t2_JV_oop_002,time=3041,059},{name=S_t2_JV_oop_002,time=3065,059},{name=E_t2_JV_oop_002,time=3113,809},{name=P_t3_JV_oop_002,time=3445,463},{name=S_t3_JV_oop_002,time=3488,463},{name=E_t3_JV_oop_002,time=3503,463},{name=P_t4_JV_oop_002,time=3612,123},{name=S_t4_JV_oop_002,time=3627,123},{name=E_t4_JV_oop_002,time=3682,373},{name=P_t5_JV_oop_002,time=3734,746},{name=S_t5_JV_oop_002,time=3904,246},{name=E_t5_JV_oop_002,time=3940,746}</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>

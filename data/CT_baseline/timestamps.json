@@ -1,0 +1,97 @@
+{
+  "t1-IP-2.igs20240111_132237": {
+    "start_timestamp": 10583.84649428572,
+    "end_timestamp": 10705.77569428572,
+    "duration": 121.92919999999867
+  },
+  "t1-IP-sw.igs20240111_132444": {
+    "start_timestamp": 10711.25000857143,
+    "end_timestamp": 10952.25133714286,
+    "duration": 241.00132857143035
+  },
+  "t1-IP.igs20240111_115326": {
+    "start_timestamp": 5232.688837142858,
+    "end_timestamp": 6427.48140857143,
+    "duration": 1194.792571428572
+  },
+  "t1-OoP-ss.igs20240112_082211": {
+    "start_timestamp": 942.9876657142837,
+    "end_timestamp": 1514.280437142851,
+    "duration": 571.2927714285673
+  },
+  "t1-OoP-sw.igs20240112_090218": {
+    "start_timestamp": 3349.260531428568,
+    "end_timestamp": 3540.299051428566,
+    "duration": 191.03851999999824
+  },
+  "t2-IP-sw.igs20240111_132852": {
+    "start_timestamp": 10958.80585142857,
+    "end_timestamp": 11613.15498,
+    "duration": 654.3491285714299
+  },
+  "t2-IP.igs20240111_121701": {
+    "start_timestamp": 6647.938694285714,
+    "end_timestamp": 7284.147822857142,
+    "duration": 636.2091285714287
+  },
+  "t2-OoP-ss.igs20240112_083237": {
+    "start_timestamp": 1568.178379999996,
+    "end_timestamp": 2078.418879999996,
+    "duration": 510.2405000000001
+  },
+  "t2-OoP-sw.igs20240112_090640": {
+    "start_timestamp": 3611.920445714277,
+    "end_timestamp": 4144.212694285713,
+    "duration": 532.2922485714362
+  },
+  "t3-IP-sw.igs20240111_134100": {
+    "start_timestamp": 11687.03500857143,
+    "end_timestamp": 11928.63342285714,
+    "duration": 241.5984142857087
+  },
+  "t3-OoP-ss.igs20240112_084150": {
+    "start_timestamp": 2122.024579999998,
+    "end_timestamp": 2554.151937142854,
+    "duration": 432.127357142856
+  },
+  "t3-OoP-sw.igs20240112_092511": {
+    "start_timestamp": 4722.950422857135,
+    "end_timestamp": 4901.480051428567,
+    "duration": 178.5296285714321
+  },
+  "t4-IP-sw.igs20240111_134725": {
+    "start_timestamp": 12071.44039428571,
+    "end_timestamp": 12197.04610857143,
+    "duration": 125.60571428572075
+  },
+  "t4-IP.igs20240111_131303": {
+    "start_timestamp": 10009.48309428572,
+    "end_timestamp": 10102.81065142857,
+    "duration": 93.3275571428494
+  },
+  "t4-OoP-sw.igs20240112_092815": {
+    "start_timestamp": 4906.786737142854,
+    "end_timestamp": 5233.860351428564,
+    "duration": 327.0736142857104
+  },
+  "t5-IP-sw.igs20240111_134952": {
+    "start_timestamp": 12219.27989428571,
+    "end_timestamp": 12504.41659428571,
+    "duration": 285.1367000000009
+  },
+  "t5-IP.igs20240111_131528": {
+    "start_timestamp": 10154.87428,
+    "end_timestamp": 10374.54755142857,
+    "duration": 219.67327142856993
+  },
+  "t5-OoP-ss.igs20240112_085514": {
+    "start_timestamp": 2926.166902857135,
+    "end_timestamp": 3238.751894285708,
+    "duration": 312.5849914285732
+  },
+  "t5-OoP-sw.igs20240112_093345": {
+    "start_timestamp": 5236.727794285708,
+    "end_timestamp": 5661.743165714281,
+    "duration": 425.0153714285725
+  }
+}

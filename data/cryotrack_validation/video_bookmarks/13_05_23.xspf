@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///home/jonas/Downloads/22.38.CRYO_2023_11_27_13_05_23_Movie.mp4</location>
+			<duration>6424572</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+				<vlc:option>bookmarks={name=P_t1_HK_ip_001,time=17.905},{name=S_t1_HK_ip_001,time=155.405},{name=E_t1_HK_ip_001,time=250.405},{name=P_t1_HK_oop_001,time=449.155},{name=S_t1_HK_oop_001,time=502.405},{name=E_t1_HK_oop_001,time=561.405},{name=P_t1_JM_ip_001,time=694.405},{name=S_t1_JM_ip_001,time=746.156},{name=E_t1_JM_ip_001,time=839.905},{name=P_t1_JM_oop_002,time=1235.905},{name=S_t1_JM_oop_002,time=1272.905},{name=E_t1_JM_oop_002,time=1375.405},{name=P_t2_HK_ip_001,time=1574.155},{name=S_t2_HK_ip_001,time=1609.405},{name=E_t2_HK_ip_001,time=1748.905},{name=P_t2_HK_oop_001,time=1857.405},{name=S_t2_HK_oop_001,time=1919.155},{name=E_t2_HK_oop_001,time=2007.405},{name=P_t2_JM_ip_001,time=2080.655},{name=S_t2_JM_ip_001,time=2090.405},{name=E_t2_JM_ip_001,time=2164.905},{name=P_t2_JM_oop_002,time=2233.688},{name=S_t2_JM_oop_002,time=2254.438},{name=E_t2_JM_oop_002,time=2328.438},{name=P_t3_HK_ip_001_invalid,time=2416.438},{name=S_t3_HK_ip_001_invalid,time=2525.438},{name=E_t3_HK_ip_001_invalid,time=2589.188},{name=P_t3_HK_oop_001_invalid,time=2719.939},{name=S_t3_HK_oop_001_invalid,time=2761.438},{name=E_t3_HK_oop_001_invalid,time=2920.938},{name=P_t3_JM_ip_001_invalid,time=3080.438},{name=S_t3_JM_ip_001_invalid,time=3163.438},{name=E_t3_JM_ip_001_invalid,time=3177.938},{name=P_t3_HK_ip_002,time=3514.688},{name=S_t3_HK_ip_002,time=3565.938},{name=E_t3_HK_ip_002,time=3723.438},{name=P_t3_HK_oop_003,time=3846.188},{name=S_t3_HK_oop_003,time=3863.438},{name=E_t3_HK_oop_003,time=4144.438},{name=P_t3_JM_ip_001,time=4238.472},{name=S_t3_JM_ip_001,time=4250.221},{name=E_t3_JM_ip_001,time=4325.221},{name=P_t3_JM_oop_001,time=4415.471},{name=S_t3_JM_oop_001,time=4434.971},{name=E_t3_JM_oop_001,time=4531.471},{name=P_t4_HK_ip_001,time=4632.972},{name=S_t4_HK_ip_001,time=4675.471},{name=E_t4_HK_ip_001,time=4735.971},{name=P_t4_HK_oop_001,time=4832.971},{name=S_t4_HK_oop_001,time=4847.471},{name=E_t4_HK_oop_001,time=4894.971},{name=P_t4_JM_ip_002,time=4971.221},{name=S_t4_JM_ip_002,time=5003.471},{name=E_t4_JM_ip_002,time=5132.971},{name=P_t4_JM_oop_001,time=5218.485},{name=S_t4_JM_oop_001,time=5260.971},{name=E_t4_JM_oop_001,time=5291.721},{name=P_t5_HK_oop_002,time=5692.971},{name=S_t5_HK_oop_002,time=5721.471},{name=E_t5_HK_oop_002,time=5882.221},{name=P_t5_HK_ip_001,time=5485.471},{name=S_t5_HK_ip_001,time=5508.721},{name=E_t5_HK_ip_001,time=5579.471},{name=P_t5_JM_ip_001,time=5971.971},{name=S_t5_JM_ip_001,time=5995.471},{name=E_t5_JM_ip_001,time=6035.971},{name=P_t5_JM_oop_001,time=6125.471},{name=S_t5_JM_oop_001,time=6142.971},{name=E_t5_JM_oop_001,time=6182.471}</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+	</extension>
+</playlist>

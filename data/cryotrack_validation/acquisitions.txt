@@ -1,0 +1,53 @@
+10 t2-cryo-HK-oop
+11 t2-cryo-JM-ip
+12 t2-cryo-JM-oop
+13 -t1-cryo-HK-ip
+14 -t1-cryo-HK-oop
+15 -t1-cryo-JN-ip
+16 -t1-cryo-JN-oop
+17 -t2-cryo-HK-ip
+18 -t2-cryo-HK-oop
+19 -t2-cryo-JM-ip
+20 -t2-cryo-JM-oop
+21 -t3-cryo-HK-ip
+22 -t3-cryo-HK-oop
+23 -t3-cryo-HK-oop
+24 -t3-cryo-JM-ip
+25 --t3-cryo-HK-ip
+26 --t3-cryo-HK-oop
+27 --t3-cryo-JM-ip
+28 --t3-cryo-JM-oop
+29 --t4-cryo-HK-ip
+30 --t4-cryo-HK-oop
+31 --t4-cryo-JM-ip
+32 --t4-cryo-JM-oop
+33 --t5-cryo-HK-ip
+34 --t5-cryo-HK-oop
+35 --t5-cryo-JM-ip
+36 --t5-cryo-JM-oop
+37 t1-cryo-JV-ip1
+38 t2-cryo-JV-ip1
+39 t3-cryo-JV-ip1
+40 t4-cryo-JV-ip1
+41 t5-cryo-JV-ip1
+42 -t5-cryo-JV-ip1
+43 t1-cryo-JV-oop1
+44 t2-cryo-JV-oop1
+45 t3-cryo-JV-oop1
+46 t4-cryo-JV-oop1
+47 t5-cryo-JV-oop1
+48 t1-cryo-JV-ip2
+49 t2-cryo-JV-ip2
+50 t3-cryo-JV-ip2
+51 t4-cryo-JV-ip2
+52 t5-cryo-JV-ip2
+53 t1-cryo-JV-oop2
+54  2 t2-cryo-JV-oop2
+55  3 t3-cryo-JV-oop2
+56  4 t4-cryo-JV-oop2
+57  5 t5-cryo-JV-oop2
+5 t1-cryo-HK-ip
+6 t1-cryo-HK-oop
+7 t1-cryo-JM-ip
+8 t1-cryo-JM-oop
+9 t2-cryo-HK-ip

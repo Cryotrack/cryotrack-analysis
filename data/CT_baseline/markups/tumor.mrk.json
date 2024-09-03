@@ -1,0 +1,107 @@
+{
+    "@schema": "https://raw.githubusercontent.com/slicer/slicer/master/Modules/Loadable/Markups/Resources/Schema/markups-schema-v1.0.3.json#",
+    "markups": [
+        {
+            "type": "Fiducial",
+            "coordinateSystem": "LPS",
+            "coordinateUnits": "mm",
+            "locked": true,
+            "fixedNumberOfControlPoints": true,
+            "labelFormat": "%N-%d",
+            "lastUsedControlPointNumber": 5,
+            "controlPoints": [
+                {
+                    "id": "1",
+                    "label": "tumor-1",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode1",
+                    "position": [-14.339292216050923, -218.72996135880808, -783.4000000000009],
+                    "orientation": [-0.8124025893353752, 0.6226501464455042, -0.01703566243999511, -0.5599941915648717, -0.7178460231849234, 0.4680651431514567, 0.27274516325130815, 0.3807693106740362, 0.9102780859682562],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "2",
+                    "label": "tumor-2",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode1",
+                    "position": [95.26937111836108, -174.25108348397424, -839.1152587890629],
+                    "orientation": [-0.9426128291292052, 0.37116000253956094, 0.029387025903627684, -0.35014665443508214, -0.9109007589218476, 0.2734948229841137, 0.12657276628306166, 0.24421783375917844, 0.9754379913274942],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "3",
+                    "label": "tumor-3",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode1",
+                    "position": [-83.17565083186521, -195.4315015196094, -908.7746948242198],
+                    "orientation": [-0.9196891579336636, 0.43049542234990035, 0.02413794105543941, -0.4020134284403016, -0.8767058605544988, 0.31860498035406637, 0.15586581477761371, 0.278922249898644, 0.9641811667827432],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "4",
+                    "label": "tumor-4",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode1",
+                    "position": [-58.81817009088478, -226.6726181221713, -919.5746948242204],
+                    "orientation": [-0.9526991248976512, 0.3409714029731357, 0.03091029948173686, -0.3232839464714554, -0.9260062885356384, 0.25070383001973073, 0.11271394861932706, 0.2260606617420477, 0.9803288784074732],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                },
+                {
+                    "id": "5",
+                    "label": "tumor-5",
+                    "description": "",
+                    "associatedNodeID": "vtkMRMLScalarVolumeNode1",
+                    "position": [79.38405759163469, -204.9626896356452, -951.9746948242216],
+                    "orientation": [-0.9700538230245837, 0.2797777974821779, 0.03175508869609142, -0.26790545231429785, -0.952136799920134, 0.20481846607374865, 0.08666412315570182, 0.18827724095214843, 0.988599732694574],
+                    "selected": true,
+                    "locked": false,
+                    "visibility": true,
+                    "positionStatus": "defined"
+                }
+            ],
+            "measurements": [],
+            "display": {
+                "visibility": true,
+                "opacity": 1.0,
+                "color": [0.4, 1.0, 1.0],
+                "selectedColor": [0.984313725490196, 1.0, 0.06274509803921569],
+                "activeColor": [0.4, 1.0, 0.0],
+                "propertiesLabelVisibility": false,
+                "pointLabelsVisibility": true,
+                "textScale": 3.0,
+                "glyphType": "CrossDot2D",
+                "glyphScale": 5.0,
+                "glyphSize": 5.0,
+                "useGlyphScale": true,
+                "sliceProjection": false,
+                "sliceProjectionUseFiducialColor": true,
+                "sliceProjectionOutlinedBehindSlicePlane": false,
+                "sliceProjectionColor": [1.0, 1.0, 1.0],
+                "sliceProjectionOpacity": 0.6,
+                "lineThickness": 0.2,
+                "lineColorFadingStart": 1.0,
+                "lineColorFadingEnd": 10.0,
+                "lineColorFadingSaturation": 1.0,
+                "lineColorFadingHueOffset": 0.0,
+                "handlesInteractive": false,
+                "translationHandleVisibility": true,
+                "rotationHandleVisibility": true,
+                "scaleHandleVisibility": true,
+                "interactionHandleScale": 3.0,
+                "snapMode": "toVisibleSurface"
+            }
+        }
+    ]
+}
